@@ -1,1 +1,1 @@
-# detectron2-instance-segmentation
+# detectron2-instance-segmentation example
